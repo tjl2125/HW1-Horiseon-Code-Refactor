@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/*This is for the header.*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +21,7 @@ header h1 {
     font-size: 48px;
 }
 
+/*This changes the color for seo in the header*/
 header h1 .seo {
     color: #d9dcd6;
 }
