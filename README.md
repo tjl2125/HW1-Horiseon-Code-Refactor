@@ -1,2 +1,10 @@
-# Homework-due-on-2-6
-Here is my homework that is due on 2/6. 
+# HTML-Git-CSS: Code Refactor Homework 1 
+
+## Description
+As a part of the marketing agency for Horiseon, the website codebase has been refactored
+so that it is more accessible and also more optimized for search engines. The codebase
+has also been looked over and improved upon so that is sustainable in the long-term. 
+
+## Screenshot 
+
+## Link to Deployed Application
