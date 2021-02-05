@@ -7,4 +7,8 @@ has also been looked over and improved upon so that is sustainable in the long-t
 
 ## Screenshot 
 
+```md
+![Finished Code Refactored Website](assets\images\finished code refactored website.png)
+```
+
 ## Link to Deployed Application
